@@ -17,7 +17,7 @@ const cliente1 = new Cliente("111.111.111-11", "Joao", "joao@email.com", new End
 cliente1.adicionarTelefone(new Telefone("99999999", "99999999"));
 cliente1.adicionarTelefone(new Telefone("99999999", "99999999"));
 
-const cliente2 = new Cliente("222.222.222-22", "Gabriel", "gabriel@email.com", new Endereco("SP", "Sao Jose dos Campos", "Av Andromeda", "412"));
+const cliente2 = new Cliente("222.222.222-22", "Flavio Caça-Rato", "ratao@email.com", new Endereco("SP", "Sao Jose dos Campos", "Av Andromeda", "412"));
 cliente2.adicionarTelefone(new Telefone("88888888", "88888888"));
 cliente2.adicionarTelefone(new Telefone("88888888", "88888888"));
 
